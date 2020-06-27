@@ -1,0 +1,6 @@
+*.vcd
+testdir/
+*.out
+.vscode/
+
+.DS_Store
